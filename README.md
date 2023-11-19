@@ -14,6 +14,7 @@
 - [Age Calculator](https://yashshrivastava10.github.io/ageCalculator)
 - [Synonyms](https://yashshrivastava10.github.io/synonyms)
 - [Undo Redo](https://yashshrivastava10.github.io/undoRedo)
+- [Users & Posts](https://yashshrivastava10.github.io/usersPosts)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YashShrivastava10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
