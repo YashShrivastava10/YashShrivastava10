@@ -6,6 +6,7 @@
 
 # 🎮 Projects:
 - [Pizzeria](https://pizzeria-psi.vercel.app)
+- [Tic-tac-Toe](https://tic-tac-toe-tic.vercel.app/)
 - [Memory Game](https://yashshrivastava10.github.io/memoryGame)
 - [Age Calculator](https://yashshrivastava10.github.io/ageCalculator)
 - [Synonyms](https://yashshrivastava10.github.io/synonyms)
