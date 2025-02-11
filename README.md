@@ -19,7 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YashShrivastava10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashShrivastava10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=yashshrivastava10&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
+# 🐍 Feeding 
+![Snake animation](https://raw.githubusercontent.com/yashshrivastava10/yashshrivastava10/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
