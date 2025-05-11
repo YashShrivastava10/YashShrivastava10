@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Full Stack Development<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>TypeScript & NextJS<br><br>⚡**Fun fact:**  <br>I once considered a job in Hyderabad solely for the purpose of indulging in their legendary biryani!.
+🔭 **I’m currently working on:**  <br>Full Stack Development<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>⚡**Fun fact:**  <br>I once considered a job in Hyderabad solely for the purpose of indulging in their legendary biryani!.
 
 # 💻 Tech Stack
 
