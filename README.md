@@ -80,7 +80,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YashShrivastava10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashShrivastava10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=YashShrivastava10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats-iota-rosy-79.vercel.app/api/top-langs/?username=YashShrivastava10&theme=dark&count_private=true&layout=compact))
 
 # 🐍 Feeding 
 ![Snake animation](https://raw.githubusercontent.com/yashshrivastava10/yashshrivastava10/output/github-snake-dark.svg)
